@@ -26,4 +26,4 @@ I open-sourced a generic version of the architecture here:
 
 ### How I Work
 
-I use AI-assisted development as a force multiplier — I drive the architecture and decisions, AI helps me move fast on implementation. I think this is where technical leadership is headed.
+I use AI-assisted development as a force multiplier — I drive the architecture and decisions, AI helps me move fast on implementation. I think this is where technical leadership is headed. I truly believe this is a great time to build.
