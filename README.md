@@ -1,6 +1,6 @@
-## Hi, I'm Karthik
+##I'm Karthik Kuppa
 
-Sr. Technical Program Manager with ~19 years in tech. Currently focused on privacy and compliance engineering.
+A Sr. Technical Program Manager with ~19 years in tech. Currently focused on privacy and compliance engineering.
 
 ### Background
 
